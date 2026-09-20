@@ -1,6 +1,0 @@
-profile by Muse Spark — v1.3
-owner: NikAles (https://github.com/NikAles)
-style: black + red
-files: README.md, .github/workflows/snake.yml
-status: saved locally, NOT pushed to git
-date: 2026-09-20

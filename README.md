@@ -1,112 +1,183 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:330000&height=200&section=header&text=NikAles&fontSize=72&fontColor=ff1f3d&stroke=ff1f3d&fontAlignY=38&animation=fadeIn&fontAlign=center" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1F3D&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Computer+Vision+%7C+Python;Neural+Nets%2C+Data%2C+Blood+%26+Code;Black+background.+Red+accents.+No+mercy.)](https://git.io/typing-svg)
+<!-- ═══════════════════════════════════════════════════════════
+  MUSE SPARK v1.3 · STRONG PROMPT · BLACK x DARK SCARLET EDITION
+  Owner: NikAles · https://github.com/NikAles
+  Палитра: Black Scarlet · bg #0a0505 · fg #e8d5d5 · accent #c1121f
+═══════════════════════════════════════════════════════════ -->
 
-![Profile views](https://komarev.com/ghpvc/?username=NikAles&color=ff1f3d&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/NikAles?style=flat-square&color=0d1117&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=ff1f3d)
-![Stars](https://img.shields.io/github/stars/NikAles?style=flat-square&color=0d1117&labelColor=0d1117&label=STARS&logo=github&logoColor=ff1f3d)
+<!-- HERO: поменяй text= и desc= под свой нейм и роль -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0505,100:2b0d0d&height=200&section=header&text=NikAles&fontSize=68&fontColor=e8d5d5&stroke=c1121f&fontAlignY=36&desc=ML%20Engineer%20·%20Computer%20Vision%20·%20Python&descSize=17&descAlignY=58&descAlign=center&animation=fadeIn" />
+
+<!-- TYPING: замени lines= на свои 3-4 роли. Слова через %20, строки через ; -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=c1121f&center=true&vCenter=true&width=640&lines=Senior+ML+Engineer+%2F+Computer+Vision;Python+%2C+PyTorch+%2C+OpenCV+%2C+Data;Pipelines%2C+Experiments%2C+Production" /></a>
+
+<br/>
+
+<!-- STATUS: замени NikAles на свой username везде (Ctrl+H) -->
+<img src="https://komarev.com/ghpvc/?username=NikAles&color=c1121f&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/NikAles?style=flat-square&color=0a0505&labelColor=0a0505&label=FOLLOWERS&logo=github&logoColor=c1121f" />
+<img src="https://img.shields.io/github/stars/NikAles?style=flat-square&color=0a0505&labelColor=0a0505&label=STARS&logo=github&logoColor=c1121f" />
+
+<!-- FOCUS: одна строка текущего фокуса -->
+<p><b>🎯 Currently hacking on:</b> <code>Food-101 classification → Telegram CV-bot → OCR pipeline</code></p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1f3d&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
 
-## 🩸 About me
+## 👨‍💻 About me
 
 ```python
 class NikAles:
     def __init__(self):
-        self.role = "ML Engineer / Computer Vision"
-        self.stack = ["Python", "PyTorch", "OpenCV", "sklearn", "Jupyter"]
-        self.focus = ["Computer Vision", "Classification", "OCR", "ML-pipelines"]
-        self.style = {"background": "black", "accents": "red", "code": "clean"}
-        self.coffee = True
-
-    def motto(self):
-        return "Train hard. Predict harder."
+        self.role = "{ROLE}"  # напр.: ML Engineer / Computer Vision
+        self.stack = ["Python", "PyTorch", "OpenCV", "sklearn"]  # {TECH_STACK}
+        self.focus = "{CURRENT_FOCUS}"  # напр.: CV-classification + TG-bots
+        self.theme = "{THEME}"  # Black Scarlet: 0a0505 / c1121f / e8d5d5
 ```
 
-- 🔴 Работаю с **Python + ML/CV**: классификация, OCR, нейронки
-- ⚫ Качаю скилл в **Deep Learning / Computer Vision**
-- 🩸 Открыт к интересным проектам и коллаборациям
+- ▸ <b>Специализация:</b> Python + ML/CV — классификация, OCR, нейросети
+- ▸ <b>Подход:</b> чистые эксперименты → воспроизводимые пайплайны → продакшн
+- ▸ <b>Пет-проекты:</b> Food-101, TG-бот распознавания еды, MNIST, фрод-детект
+- ▸ <b>Open-source:</b> делюсь ноутбуками, ботами и CV-рецептами
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1f3d&height=2&section=header" />
+<details>
+<summary><b>📖 Longread — кто я и куда иду</b></summary>
+<br/>
 
-## ⚫🟥 Tech arsenal
+ML-инженер с фокусом на **Computer Vision и прикладной Deep Learning**.
+Люблю превращать сырые данные в рабочие демо: от Jupyter-эксперимента
+до Telegram-бота, которым пользуются живые люди.
 
+- Сейчас качаю: Transformers для vision, продакшн-инференс, MLOps-минимум
+- Ценю: читаемый код, честные метрики, тёмные темы и хорошую типографику
+- Открыт к: коллаборациям, code review, интересным датасетам
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
+
+## 🛠️ Tech Stack & Tools
+
+<!-- STACK: skillicons theme=dark = единый стиль. Добавить иконку: допиши имя в i= -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff1f3d)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff1f3d)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff1f3d)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=ff1f3d)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=ff1f3d)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=ff1f3d)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=ff1f3d)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ff1f3d)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff1f3d)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff1f3d)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-0d1117?style=for-the-badge&logo=telegram&logoColor=ff1f3d)
+**Core / Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,jupyter,markdown&theme=dark" />
+
+**Frameworks & CV / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+
+<br/>
+
+<!-- Детализация едиными плашками flat-square color=0a0505, без радуги -->
+<img src="https://img.shields.io/badge/Python-0a0505?style=flat-square&logo=python&logoColor=c1121f" />
+<img src="https://img.shields.io/badge/PyTorch-0a0505?style=flat-square&logo=pytorch&logoColor=c1121f" />
+<img src="https://img.shields.io/badge/OpenCV-0a0505?style=flat-square&logo=opencv&logoColor=c1121f" />
+<img src="https://img.shields.io/badge/scikit_learn-0a0505?style=flat-square&logo=scikitlearn&logoColor=c1121f" />
+<img src="https://img.shields.io/badge/Pandas-0a0505?style=flat-square&logo=pandas&logoColor=c1121f" />
+<img src="https://img.shields.io/badge/Docker-0a0505?style=flat-square&logo=docker&logoColor=c1121f" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1f3d&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
 
-## 🔥 Featured projects
 
-| 🩸 Project | 💀 What it does | ⚙️ Stack |
-|---|---|---|
-| [crypto_meme_predictor](https://github.com/NikAles/crypto_meme_predictor) | Предсказание движения крипты / мем-коинов по данным | `Python` |
-| [tg_bot_recognition_food](https://github.com/NikAles/tg_bot_recognition_food) | Telegram-бот для распознавания еды по фото | `Python` `CV` |
-| [Food101CV](https://github.com/NikAles/Food101CV) | Классификация еды на датасете Food-101 | `Jupyter` `CNN` |
-| [handwriting-ocr](https://github.com/NikAles/handwriting-ocr) | OCR рукописного текста | `Python` `OCR` |
-| [anti_fraud_detection](https://github.com/NikAles/anti_fraud_detection) | Детект фрода / аномалий | `Jupyter` `ML` |
-| [MNIST](https://github.com/NikAles/MNIST) | Классика: нейронка на MNIST | `Jupyter` `DL` |
+## 📊 Dynamic Telemetry
 
-> Хочешь весь список — жми: [**все репозитории →**](https://github.com/NikAles?tab=repositories)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1f3d&height=2&section=header" />
-
-## 📊 Blood stats
-
+<!-- STATS: тёмная тема + чёрно-алые цвета уже вшиты. Если виджеты отдают 404 — подожди 5 мин (кеш Vercel) -->
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NikAles&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff1f3d&text_color=ffffff&icon_color=ff1f3d&border_color=ff1f3d&ring_color=ff1f3d&hide_border=false&border_radius=10" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=NikAles&theme=dark&background=0d1117&ring=ff1f3d&fire=ff1f3d&currStreakLabel=ff1f3d&sideNums=ffffff&currStreakNum=ffffff&dates=888888&sideLabels=888888&border=ff1f3d&stroke=ff1f3d" />
-    </td>
-  </tr>
+<table border="0" align="center">
+<tr border="0">
+<td border="0" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NikAles&show_icons=true&theme=dark&bg_color=0a0505&title_color=c1121f&text_color=e8d5d5&icon_color=c1121f&border_color=2b0d0d&hide_border=false&border_radius=10" />
+</td>
+<td border="0" align="center">
+<img src="https://streak-stats.demolab.com?user=NikAles&theme=dark&background=0a0505&ring=c1121f&fire=c1121f&currStreakLabel=c1121f&sideNums=e8d5d5&currStreakNum=e8d5d5&dates=6e2b2b&sideLabels=6e2b2b&border=2b0d0d&stroke=c1121f" />
+</td>
+</tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikAles&layout=compact&theme=dark&bg_color=0d1117&title_color=ff1f3d&text_color=ffffff&border_color=ff1f3d&hide_border=false&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikAles&layout=compact&theme=dark&bg_color=0a0505&title_color=c1121f&text_color=e8d5d5&border_color=2b0d0d&hide_border=false&border_radius=10&langs_count=6" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikAles&bg_color=0d1117&color=ffffff&line=ff1f3d&point=ff1f3d&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikAles&bg_color=0a0505&color=e8d5d5&line=c1121f&point=c1121f&area=true&hide_border=true" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1f3d&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
 
-## 🐍 Contribution bleed
+## 🚀 Featured Projects
+
+<!-- PROJECTS: это реальные репозитории NikAles. Замени описание/бейджи под себя. Pinned-карточки ниже — альтернатива таблице -->
+<div align="center">
+
+| Project | Value | Stack |
+|---|---|---|
+| [tg_bot_recognition_food](https://github.com/NikAles/tg_bot_recognition_food) | Telegram-бот: распознавание еды по фото | `Python` `CV` |
+| [Food101CV](https://github.com/NikAles/Food101CV) | Классификация Food-101: CNN-эксперименты | `PyTorch` `Jupyter` |
+| [MNIST](https://github.com/NikAles/MNIST) | Базовая DL-классика: нейронка на MNIST | `Jupyter` `DL` |
+
+<a href="https://github.com/NikAles/Food101CV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikAles&repo=Food101CV&theme=dark&bg_color=0a0505&title_color=c1121f&text_color=e8d5d5&border_color=2b0d0d" /></a>
+<a href="https://github.com/NikAles/tg_bot_recognition_food"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikAles&repo=tg_bot_recognition_food&theme=dark&bg_color=0a0505&title_color=c1121f&text_color=e8d5d5&border_color=2b0d0d" /></a>
+
+> Весь список: [**all repositories →**](https://github.com/NikAles?tab=repositories)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
+
+## 🐍 Contribution Snake
+
+<!-- SNAKE: требует actions/файл .github/workflows/snake.yml — инструкция в SNAKE-SETUP.md рядом -->
+<div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/NikAles/NikAles/output/snake.svg)
 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=c1121f&height=2&section=header" />
+
+## 📬 Connect & Footer
+
+<!-- SOCIALS: замени USERNAME/ссылки. Стиль единый: flat-square, фон 0a0505, лого c1121f -->
 <div align="center">
 
-### ⚫ BLACK CODE — 🔴 RED BLOOD
+<!-- {SOCIALS} — вставь свои ссылки вместо # -->
+<a href="#"><img src="https://img.shields.io/badge/Telegram-0a0505?style=flat-square&logo=telegram&logoColor=c1121f" /></a>
+<a href="https://github.com/NikAles"><img src="https://img.shields.io/badge/GitHub-0a0505?style=flat-square&logo=github&logoColor=c1121f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a0505?style=flat-square&logo=linkedin&logoColor=c1121f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/X-0a0505?style=flat-square&logo=x&logoColor=c1121f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0505?style=flat-square&logo=vercel&logoColor=c1121f" /></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NikAles&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Repositories,Experience)
+<br/><br/>
+
+*⚡ profile by Muse Spark — v1.3 strong prompt · Black Scarlet · {NAME} / {ROLE}*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0d0d,100:0a0505&height=120&section=footer" />
 
 </div>
 
-<div align="center">
+<!--
+═══════════════════════════════════════════════════════════
+НАСТРОЙКА ВИДЖЕТОВ И ТЕМ (прочитай и удали перед публикацией)
+1. Замени все NikAles → {GITHUB_USERNAME} (Ctrl+H).
+2. Capsule Render: color=0:0a0505,100:2b0d0d — фон Black Scarlet.
+   Хочешь Catppuccin Mocha → color=0:11111b,100:1e1e2e, accent cba6f7.
+3. Typing SVG: параметр lines= — твои роли через точку с запятой.
+4. Stats/Streak/Top-langs: theme=dark уже выставлен,
+   bg_color=0a0505 фиксирует тёмную подложку и в Light Mode GitHub.
+5. skillicons: i=список_иконок & theme=dark. Полный каталог: skillicons.dev
+6. Snake: нужен файл .github/workflows/snake.yml (лежит рядом
+   в SNAKE-SETUP.md + готовый snake.yml). После пуша в репозиторий
+   NikAles/NikAles появится ветка output со snake.svg.
+═══════════════════════════════════════════════════════════
+-->
 
-*⚫ profile by Muse Spark — v1.3 🔴*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,100:000000&height=140&section=footer" />

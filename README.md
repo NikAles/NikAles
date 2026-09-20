@@ -103,4 +103,10 @@ class NikAles:
 
 </div>
 
+<div align="center">
+
+*⚫ profile by Muse Spark — v1.3 🔴*
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,100:000000&height=140&section=footer" />

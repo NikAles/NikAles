@@ -159,8 +159,6 @@ ML-инженер с фокусом на **Computer Vision и прикладно
 
 <br/><br/>
 
-*⚡ profile by Muse Spark — v1.3 strong prompt · Black Scarlet · {NAME} / {ROLE}*
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0d0d,100:0a0505&height=120&section=footer" />
 
 </div>
